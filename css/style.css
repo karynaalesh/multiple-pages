@@ -8,7 +8,13 @@ a {
 }
 h1 {
   color: #191919;
+  font-size: 40px;
 }
 p {
   color: #191919;
+}
+.photo {
+  max-width: 1000px;
+  margin-bottom: 30px;
+  border-radius: 50px;
 }
